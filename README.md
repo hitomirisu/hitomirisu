@@ -12,7 +12,6 @@ cherryjamm689@gmail.com
 
 @hitomirisu
 
-![descrição do GIF](link GIF do Tenor)
 
 <!---
 hitomirisu/hitomirisu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
